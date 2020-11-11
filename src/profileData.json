@@ -1,0 +1,91 @@
+{
+	"landing": {
+		"firstName": "MADANI",
+		"lastName": "Manal",
+		"phoneNumber": "+212688184162",
+		"bio": "Actuellement en dernière année cycle d'ingénieurs génie Informatique , je suis à la recherche d'un stage projet de fin d'études dans le domaine du Business Intelligence. Dynamique ,rigoureuse et polyvalente, je suis prête à m’investir pleinement dans les responsabilités qui me seront attribuées",
+       "email": "manalmadaniy@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/manal-madani-7a9342168/",
+		"github": "https://github.com/manalmadaniy"
+	},
+	"experience": [
+		{
+				"position": "Stage Pratique",
+				"organization": "GREENSUPPLY",
+				"aboutWork": "Mise en place d'unoutil ERM via une application BI",
+				"fromDate": "09/2020",
+				"toDate": "09/2020"
+		},
+		{
+			"position": "Stage d'Initiation",
+			"organization": "Marsa Maroc",
+			"aboutWork": "Mise en place d’une solution de supervision de l’infrastructure système et réseaux (Zabbix)",
+			"fromDate": "07/2019",
+			"toDate": "08/2019"
+		}
+	
+	],
+	"education": [{
+			"university": "Ecole Nationale des Sciences Appliquées de Khouribga",
+			"degree": "Diplome d'Ingénieurs en Génie Informatique",
+			"gpa": "",
+			"fromDate": "2016",
+			"toDate": "2020"
+		}
+	],
+	"skills": [{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS"
+		},
+		{
+			"name": "Javascript/TypeScript"
+		},
+		{
+			"name": "Angular"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Java/JEE"
+		},
+		{
+			"name": "Spring Boot"
+		},
+		{
+			"name": "Microsoft Power BI"
+		},
+		{
+			"name": "Talend Open Studio (ETL)"
+		},
+		{
+			"name": " PL/SQL"
+		},
+		{
+			"name": " Data Warehousing"
+		},
+		{
+			"name": "UML"
+		},
+			{
+			"name": "UML"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Sport , Activités Associatives , Voyage, Lecture ",
+		"paragraphTwo": "Arabe, Français , Anglais"
+	},
+	"awards": [{
+			"awardDetail": "Scrum Foundation Professional Certificate (SFPC) (06/2020 - Present)"
+		},
+		{
+			"awardDetail": "Nombre de Science des données IBM Certificat Professionnel (05/2020 - Present)"
+		}
+		
+	]
+}
